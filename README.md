@@ -1,2 +1,2 @@
 # secret-scan-test
-Testing GitHub secret scanning
+Testing GitHub secret scanning!
